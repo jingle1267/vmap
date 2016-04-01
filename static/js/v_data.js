@@ -46,5 +46,9 @@ var VIP_USERS = [
     {
         name: "Yanhaijing",
         latLang: [40.0509597,116.2986095]
+    },
+    {
+    name: "jingle1267",
+    latLang: [39.7931206337, 116.5061232549]
     }
 ];
